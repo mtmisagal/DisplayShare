@@ -1,0 +1,3 @@
+﻿  glad.c
+  main.cpp
+C:\Users\Misagal\source\repos\texture\texture\main.cpp(5): fatal error C1083: Cannot open include file: 'stb_image.h': No such file or directory

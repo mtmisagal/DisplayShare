@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  C:\Users\Misagal\Downloads\CoE135 Project\New folder12_3_19\glfw-3.3.bin.WIN64\include\glad\glad.h(32): note: see previous definition of 'APIENTRY'
+C:\Users\Misagal\source\repos\texture\texture\main.cpp(39): warning C4101: 'buf': unreferenced local variable
+C:\Users\Misagal\source\repos\texture\texture\main.cpp(177): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Misagal\source\repos\texture\texture\main.cpp(182): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\Misagal\source\repos\texture\texture\main.cpp(183): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+  texture.vcxproj -> C:\Users\Misagal\source\repos\texture\x64\Debug\texture.exe
