@@ -14,3 +14,6 @@ To use the files run **Receiver.cpp** first and **Sender.cpp** next. **NOTE:** M
 
 ## MISC
 CoE135_OGL, opencv-test, screencap, and texture are previous attempts. You can ignore them.
+
+## Contributors
+Mariam Paul Misagal, Kristoffer Macariola, Paolo Co
